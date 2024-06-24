@@ -10,6 +10,9 @@ I have a wide-ranging interest in engineering, with particularly interete in **e
 
 ### C, Assembler
 - Developed control systems for Peripheral Interface Controllers (PICs), enhancing the performance of large-scale model trains.
+- Developing communication robot.
+  - Holding Detection System
+  - Control LCD brightness utlizing ALS(Ambient Light Sensor)
 
 ### C++
 - Engaged in the development of Unmanned Aerial Vehicles (UAVs) as part of my master's thesis research, focusing on developing general purpose and low-power consumption systems.
