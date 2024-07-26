@@ -1,41 +1,39 @@
-# Rintaro OKUDERA (奥寺 凜太郎)
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=username" />
+</div>
 
-## My Bio
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-### About Me
-I have a wide-ranging interest in engineering, with particularly interete in **embedded systems**.<br>
-（工学に幅広く興味があり、特に**組込みシステム**に関心を持っています。）
+- 🧑‍💻 I'm a embedded software engineer
+- 📫 How to reach me: [X -@rinchan_okudera](https://x.com/rinchan_okudera)
+<br>
 
-## Software Tech
+## 🌱 Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,flutter,git,ros,unity)](https://skillicons.dev)
 
-### C, Assembler
-- Developed control systems for Peripheral Interface Controllers (PICs), enhancing the performance of large-scale model trains.
-- Developing communication robot.
-  - Holding Detection System
-  - Control LCD brightness utlizing ALS(Ambient Light Sensor)
 
-### C++
-- Engaged in the development of Unmanned Aerial Vehicles (UAVs) as part of my master's thesis research, focusing on developing general purpose and low-power consumption systems.
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=RIN-POKO&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIN-POKO&theme=vue-dark&layout=compact" />
+</div>
 
-### Python
-- Data analysis
-- Developed AI for board games, achieving competitive performance in strategy-based games.
 
-### MATLAB/Simulink
-- Designed motor control systems during an internship.
-- Performed electrical circuit analysis, optimizing circuit designs for efficiency.
+<!--
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### ROS (1,2)
-- Created a SLAM (Simultaneous Localization and Mapping) application.
+Here are some ideas to get you started:
 
-### Unity, C#, Golang
-- Developed a robot simulation app, facilitating advanced testing and prototyping for robotics projects.
-
-### Flutter/Dart
-- Developed mobile applications during an internship.
-
-### 2D/3D CAD
-- Designed microcomputer cases.
-
-### TCAD
-- Conducted semiconductor analysis as part of my graduation project, contributing to the understanding of semiconductor properties and behaviors.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
