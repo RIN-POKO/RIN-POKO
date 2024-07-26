@@ -21,6 +21,10 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIN-POKO&theme=vue-dark&layout=compact" />
 </div>
 
+## 🧑‍💻 My CV
+
+- 🗾 [CV in Japanese](https://rin-poko.github.io/cv-ja/)
+- 🌎️ [CV in English](https://rin-poko.github.io/cv-en/)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
