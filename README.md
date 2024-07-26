@@ -7,7 +7,6 @@
 
 - 🧑‍💻 I'm a embedded software engineer
 - 📫 How to reach me: [X -@rinchan_okudera](https://x.com/rinchan_okudera)
-<br>
 
 ## 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py,)](https://skillicons.dev)
