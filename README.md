@@ -23,8 +23,8 @@
 
 ## 🧑‍💻 My CV
 
-- 🗾 [CV in Japanese](https://rin-poko.github.io/cv-ja/)
-- 🌎️ [CV in English](https://rin-poko.github.io/cv-en/)
+- 🗾 [CV in Japanese](https://rin-poko.github.io/cv/japanese)
+- 🌎️ [CV in English](https://rin-poko.github.io/cv/english)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
